@@ -27,5 +27,7 @@ Upload config via cli
 1. Open device via ftp client with admin level user
 2. Copy config file in device conf dir
 3. After login in router in cli type:
+```
 	configure terminal
 	apply /config/config_filename.conf
+```
