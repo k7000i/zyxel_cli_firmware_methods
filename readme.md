@@ -1,4 +1,4 @@
-#Zyxel firmware cli upload
+Zyxel firmware cli upload
 ---------------------
 
 1. Step serial port to firewall/router
